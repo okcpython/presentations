@@ -10,7 +10,7 @@ A repository to collect and discuss presentations.
 * Group Development Effort (everyone doing their own coding on a laptop)
 * scikit
 * scikit-learn
-* coroutines!
+* coroutines
 * celery
 * redis - use cases
 * flask vs. django
