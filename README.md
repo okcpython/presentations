@@ -18,7 +18,13 @@ A repository to collect and discuss presentations.
 * Roundtable Discussions
     * Show & Tell
     * Dependencies
-
+* Data science and analytics
+* GIS
+* IDEs
+* Meteorology
+* Minecraft
+* Pygame
+* Python job market
 
 ## Informal Survey
 
@@ -58,3 +64,4 @@ Total number of people present on day of survey (2017-03-08): 16
     * forced indentation: 2
     * explicit is better than implicit: 2
     * Better to ask for forgiveness than for permission: 2
+
