@@ -18,4 +18,10 @@ A repository to collect and discuss presentations.
 * Roundtable Discussions
     * Show & Tell
     * Dependencies
+* Data science and analytics
+* GIS
+* IDEs
+* Meteorology
 * Minecraft
+* Pygame
+* Python job market
