@@ -25,6 +25,7 @@ A repository to collect and discuss presentations.
 * Minecraft
 * Pygame
 * Python job market
+* Websockets in Python
 
 ## Informal Survey
 
