@@ -26,6 +26,10 @@ A repository to collect and discuss presentations.
 * Pygame
 * Python job market
 * Websockets in Python
+* Python 2 vs 3
+* Heroku and PythonAnywhere
+* Python in SQL Server
+* The Zen of Python
 
 ## Informal Survey
 
