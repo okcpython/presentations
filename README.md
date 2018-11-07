@@ -31,14 +31,14 @@ A repository to collect and discuss presentations.
 * Python in SQL Server
 * The Zen of Python
 
-## Informal Survey
+## [Informal Survey](https://www.youtube.com/watch?v=DuIM21CGm4M&t=42s)
 
 Total number of people present on day of survey (2017-03-08): 16
 
 1. I currently use Python...
     * As part of my job: 10
     * As a hobby: 9
-    * I do not currently use Python, but I'm interested in the language: 9
+    * I do not currently use Python, but I'm interested in the language: 2
 
 2. I use Python for...
     * Completing Tutorials: 0
